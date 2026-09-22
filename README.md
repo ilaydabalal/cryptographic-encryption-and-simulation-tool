@@ -46,21 +46,15 @@ pip install numpy
 
 ## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Classic-Crypto-Simulator.git
-   ```
-2. Run the encryption script:
+
+1. Run the encryption script:
    ```bash
    python sifrele.py
    ```
-3. Run the decryption script:
+2. Run the decryption script:
    ```bash
    python sifrecozme.py
    ```
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
