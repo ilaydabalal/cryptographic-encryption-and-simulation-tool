@@ -1,4 +1,4 @@
-# Cryptographic Simulation Tool
+# Cryptographic Encryption and Simulation Tool
 
 A comprehensive desktop application built with Python and Tkinter for encrypting and decrypting text using various classical and modern cryptographic algorithms.
 
